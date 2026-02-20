@@ -1,0 +1,11 @@
+cust_id,cust_name,cust_middlename,cust_lastname,cust_dob,cust_address1,cust_address2,cust_isActive,plan_id,cust_age
+1,David,NULL,Smith,15-01-1990,abc,def,Yes,1,
+2,Emily,NULL,Johnson,20-08-2005,ghi,jkl,Yes,2,
+3,Michael,NULL,Williams,03-11-1972,mno,pqr,Yes,3,
+4,Sarah,NULL,Brown,12-04-2010,stu,vwx,Yes,1,
+5,James,NULL,Jones,28-06-1955,yza,bcd,Yes,2,
+6,Jennifer,NULL,Davis,18-09-1987,efg,hij,Yes,3,
+7,Robert,NULL,Miller,05-02-2001,klm,nop,Yes,1,
+8,Linda,NULL,Moore,10-07-1968,qrs,tuv,Yes,2,
+9,William,NULL,Wilson,23-12-1995,wxy,zAB,Yes,3,
+10,Karen,NULL,Taylor,31-03-2015,CDE,FGH,Yes,1,

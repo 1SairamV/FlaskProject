@@ -1,0 +1,11 @@
+book_id,book_name,book_type,book_author,catg_id,book_copies,book_isActive
+1,To Kill a Mockingbird,Book,Harper Lee,4,15,Yes
+2,1984,Book,George Orwell,,5,Yes
+3,The Great Gatsby,Book,F. Scott Fitzgerald,5,6,Yes
+4,"The Silence of the Lambs	",Book,J.D. Salinger,6,4,Yes
+5,The Girl with the Dragon Tattoo,Book,Yuval Noah Harari,6,3,Yes
+6,Harry Potter and the Sorcerer's Stone,Book,J.K. Rowling,5,7,Yes
+7,National Geographic Magazine,Magazine,,,6,Yes
+8,Time Magazine,Magazine,,,9,Yes
+9,The New Yorker,Magazine,,,4,Yes
+10,Scientific American,Magazine,,,8,Yes
